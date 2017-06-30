@@ -1,0 +1,13 @@
+Source: ros-kinetic-soem
+Section: misc
+Priority: extra
+Maintainer: Ruben Smits <ruben@intermodalics.eu>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://developer.berlios.de/projects/soem
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-soem
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: SOEM is an open source EtherCAT master library written in c.
+ Its primary target is Linux but can be adapted to other OS and embedded systems. (http://developer.berlios.de/projects/soem/) This package contains the original soem c code provided by the Technische Universiteit Eindhoven.
