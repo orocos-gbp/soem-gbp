@@ -39,7 +39,7 @@ tracks:
       :{release_inc}
     devel_branch: kinetic
     last_release: v1.4.0
-    last_version: 1.4.0
+    last_version: 1.4.1000
     name: upstream
     patches: null
     release_inc: '1'
