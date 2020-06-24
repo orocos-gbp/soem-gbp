@@ -2,10 +2,17 @@
 Changelog for package soem
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.4.1002 (2020-06-24)
+---------------------
+* Merge pull request `#39 <https://github.com/mgruhler/soem/issues/39>`_ from mgruhler/fix/warnings_as_errors_focal
+  remove -Werror flag for linux
+* remove -Werror flag for linux
+* Contributors: Matthias Gruhler
+
 1.4.1001 (2020-06-19)
 ---------------------
 * remove package upgrade message
-* Contributors: D2/EIN-gr Gruhler, Matthias
+* Contributors: Matthias Gruhler
 
 1.4.1000 (2020-06-19)
 ---------------------
